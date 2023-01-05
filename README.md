@@ -2,7 +2,7 @@
 I'm Chris Straffon, a full time DevOps Engineer/Team Lead. But in my spare time I like to geek out and contribute to open source projects focussing around my Solar Panel setup. Most notably the [Home Assistant](https://github.com/home-assistant/core) and [PyPi_GrowattServer](https://github.com/indykoning/PyPi_GrowattServer) repos
 
 ### Get your stat fix here
-![Github stats](https://github-readme-stats.vercel.app/api?username=muppet3000&theme=tokyonight&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-muppet3000.vercel.app/api?username=muppet3000&theme=tokyonight&show_icons=true&count_private=true)
 
 ### Buy me a beer?
 Shameless self-promotion and an opportunity to say 'thanks' if you feel like you want to. Just click the link/image below.....
