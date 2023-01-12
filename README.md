@@ -5,8 +5,9 @@ I'm Chris Straffon, a full time DevOps Engineer/Team Lead. But in my spare time 
 ![Github stats](https://github-readme-stats-muppet3000.vercel.app/api?username=muppet3000&theme=tokyonight&show_icons=true&count_private=true)
 
 ### Buy me a beer?
-Shameless self-promotion and an opportunity to say 'thanks' if you feel like you want to. Just click the link/image below.....
+Shameless self-promotion and an opportunity to say 'thanks' if you feel like you want to. Just click on one of the below.....
 [![bmab_badge](https://img.shields.io/badge/Buy_Me-A_Beer-FFDD00.svg?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/muppet3000)
+[![paypal_badge](https://img.shields.io/badge/PayPal-Beer_Fund-blue.svg?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/muppet3000)
 
 ### Extras
 - Prioritised list of Home Assistant Growatt Server items that I'm working on: [here](https://community.home-assistant.io/t/growatt-integration-prioritised-list-of-features-for-implementation-fixing/483850)
